@@ -1,0 +1,22 @@
+.badges {
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.fa-solid {
+  float: right;
+  padding: 2%;
+  display: block;
+}
+
+.placeholder {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  color: red;
+}
+
+/*# sourceMappingURL=style.css.map */
