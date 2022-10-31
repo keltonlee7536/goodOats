@@ -1,22 +1,28 @@
-.badges {
+.badgesContainer {
   display: flex;
   justify-content: center;
   justify-content: space-between;
-  padding-left: 15%;
-  padding-right: 15%;
+  padding-left: 30%;
+  padding-right: 30%;
 }
 
-.fa-solid {
-  float: right;
-  padding: 2%;
-  display: block;
+.section {
+  padding: 5%;
+  padding-left: 30%;
+  padding-right: 30%;
 }
 
-.placeholder {
-  width: 80%;
+footer {
   display: flex;
   justify-content: center;
-  color: red;
+  justify-content: space-between;
+  text-align: center;
+  padding-left: 30%;
+  padding-right: 30%;
+}
+
+.center {
+  text-align: center;
 }
 
 /*# sourceMappingURL=style.css.map */
